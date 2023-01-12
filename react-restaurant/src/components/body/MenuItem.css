@@ -1,0 +1,15 @@
+.card-container {
+    width: 18rem;
+}
+
+.price{
+    color: red
+}
+
+.dish-title-name {
+    cursor: pointer;
+}
+
+.dish-title-name:hover {
+    color: blue;
+}
